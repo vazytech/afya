@@ -1,0 +1,7 @@
+{
+  "name": "AFYA - Diabetes Health Assistant",
+  "description": "An AI-powered companion for diabetes management, offering personalized guidance, health tracking, and emergency support.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
